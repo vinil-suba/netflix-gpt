@@ -1,7 +1,7 @@
 // const { createBrowserRouter } = require("react-router-dom");
 import  { createBrowserRouter }  from "react-router-dom";
-import Login from "../components/Login";
-import Browse from "../components/Browse";
+import Login from "../../components/Login";
+import Browse from "../../components/Browse";
 // const { default: Body } = require("../components/Body");
 // const { default: Browse } = require("../components/Browse");
 
